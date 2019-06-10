@@ -1,0 +1,214 @@
+,natlty1_txt,Total incidents
+0,Iraq,18375.0
+1,Pakistan,12364.0
+2,India,10135.0
+3,Afghanistan,8444.0
+4,Colombia,7740.0
+5,Peru,5868.0
+6,Philippines,5408.0
+7,El Salvador,5215.0
+8,United States,5145.0
+9,Turkey,3951.0
+10,Israel,3825.0
+11,Thailand,3302.0
+12,Northern Ireland,3292.0
+13,Spain,3116.0
+14,France,2901.0
+15,Sri Lanka,2822.0
+16,Nigeria,2767.0
+17,Algeria,2660.0
+18,Yemen,2427.0
+19,Russia,2239.0
+20,Chile,2221.0
+21,Somalia,2424.0
+22,International,2238.0
+23,Great Britain,2192.0
+24,South Africa,2035.0
+25,Nicaragua,1968.0
+26,Guatemala,1900.0
+27,Egypt,1892.0
+28,Libya,1570.0
+29,Ukraine,1551.0
+30,Bangladesh,1504.0
+31,Syria,1523.0
+32,Italy,1480.0
+33,Lebanon,1409.0
+34,.,156620.0
+35,Nepal,911.0
+36,Greece,900.0
+37,West Bank and Gaza Strip,885.0
+38,Germany,898.0
+39,Iran,821.0
+40,Indonesia,671.0
+41,Argentina,645.0
+42,Sudan,602.0
+43,Kenya,498.0
+44,Burundi,478.0
+45,Japan,467.0
+46,Mexico,458.0
+47,Angola,425.0
+48,Democratic Republic of the Congo,417.0
+49,China,367.0
+50,Myanmar,358.0
+51,Uganda,343.0
+52,Ireland,331.0
+53,Multinational,415.0
+54,Bolivia,286.0
+55,Venezuela,271.0
+56,Serbia-Montenegro,259.0
+57,Honduras,252.0
+58,Brazil,244.0
+59,Mozambique,238.0
+60,Saudi Arabia,245.0
+61,Mali,222.0
+62,Cambodia,214.0
+63,Haiti,201.0
+64,Soviet Union,207.0
+65,Georgia,189.0
+66,Ecuador,185.0
+67,Cameroon,171.0
+68,Bahrain,166.0
+69,Ethiopia,169.0
+70,Netherlands,160.0
+71,Rwanda,143.0
+72,Switzerland,151.0
+73,Central African Republic,154.0
+74,Portugal,144.0
+75,Tajikistan,134.0
+76,Namibia,131.0
+77,Canada,149.0
+78,Yugoslavia,129.0
+79,Senegal,115.0
+80,Panama,114.0
+81,Australia,124.0
+82,Macedonia,107.0
+83,Bosnia-Herzegovina,109.0
+84,Tunisia,108.0
+85,Belgium,118.0
+86,West Germany (FRG),108.0
+87,Niger,104.0
+88,Jordan,107.0
+89,Sweden,105.0
+90,Cuba,96.0
+91,Albania,95.0
+92,Paraguay,90.0
+93,South Sudan,91.0
+94,Zimbabwe,92.0
+95,Austria,92.0
+96,Cyprus,89.0
+97,Dominican Republic,86.0
+98,Rhodesia,80.0
+99,Kuwait,81.0
+100,Malaysia,80.0
+101,South Korea,78.0
+102,Puerto Rico,71.0
+103,Chad,78.0
+104,Papua New Guinea,66.0
+105,Bulgaria,67.0
+106,Sierra Leone,67.0
+107,Uruguay,62.0
+108,Ivory Coast,62.0
+109,Poland,61.0
+110,Suriname,58.0
+111,Taiwan,59.0
+112,Zambia,51.0
+113,Hungary,49.0
+114,Tanzania,49.0
+115,Costa Rica,46.0
+116,Togo,47.0
+117,Morocco,48.0
+118,Azerbaijan,44.0
+119,Denmark,42.0
+120,Armenia,38.0
+121,Croatia,37.0
+122,Vietnam,38.0
+123,Corsica,35.0
+124,Czech Republic,35.0
+125,Kosovo,34.0
+126,Romania,36.0
+127,Zaire,32.0
+128,United Arab Emirates,29.0
+129,Kazakhstan,25.0
+130,Liberia,26.0
+131,Guyana,24.0
+132,Kyrgyzstan,26.0
+133,Madagascar,24.0
+134,Guinea,24.0
+135,Lesotho,23.0
+136,Norway,28.0
+137,Jamaica,24.0
+138,Ghana,23.0
+139,Iceland,20.0
+140,Slovak Republic,21.0
+141,Trinidad and Tobago,20.0
+142,Asian,20.0
+143,Uzbekistan,20.0
+144,Macau,19.0
+145,Republic of the Congo,20.0
+146,New Zealand,27.0
+147,Laos,17.0
+148,Hong Kong,19.0
+149,Malta,18.0
+150,Latvia,17.0
+151,Djibouti,17.0
+152,Maldives,16.0
+153,Serbia,16.0
+154,Fiji,17.0
+155,Guadeloupe,16.0
+156,Eritrea,16.0
+157,Finland,15.0
+158,New Caledonia,16.0
+159,Swaziland,15.0
+160,Belarus,14.0
+161,East Timor,13.0
+162,Luxembourg,13.0
+163,Estonia,13.0
+164,Lithuania,12.0
+165,Vatican City,12.0
+166,Mauritania,10.0
+167,North Korea,10.0
+168,Qatar,11.0
+169,Singapore,9.0
+170,Burkina Faso,9.0
+171,Botswana,9.0
+172,Benin,8.0
+173,Czechoslovakia,9.0
+174,Guinea-Bissau,8.0
+175,Bahamas,8.0
+176,Moldova,8.0
+177,Bhutan,8.0
+178,Comoros,6.0
+179,Solomon Islands,6.0
+180,Malawi,6.0
+181,Slovenia,5.0
+182,Belize,5.0
+183,Montenegro,4.0
+184,Grenada,4.0
+185,Bermuda,3.0
+186,Gambia,3.0
+187,Martinique,3.0
+188,Gabon,3.0
+189,Dominica,3.0
+190,Seychelles,2.0
+191,French Guiana,2.0
+192,North Yemen,2.0
+193,Oman,2.0
+194,Equatorial Guinea,2.0
+195,Vanuatu,2.0
+196,St. Martin,2.0
+197,Mongolia,2.0
+198,Brunei,2.0
+199,Sinhalese,2.0
+200,Barbados,2.0
+201,Mauritius,2.0
+202,Turkmenistan,3.0
+203,St. Kitts and Nevis,2.0
+204,United Kingdom,1.0
+205,Greenland,1.0
+206,People's Republic of the Congo,2.0
+207,"Man, Isle of",1.0
+208,Western Sahara,1.0
+209,Commonwealth of Independent States,1.0
+210,Antigua and Barbuda,1.0
+211,St. Lucia,1.0
+212,Saba (Netherlands Antilles),1.0
